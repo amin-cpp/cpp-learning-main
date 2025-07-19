@@ -71,6 +71,7 @@ int main() {
 		cout << "Order was canceled. [Canceled]\n";
 		break;
 	}
+	cout << "code updated . \n";
 
 	return 0;
 }
